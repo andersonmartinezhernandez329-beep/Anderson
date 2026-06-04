@@ -5,7 +5,7 @@ y espero seguir relacionandome con la computación y
 todo lo relacionado con ello.
 Espero seguir esudiando la universidad, y empezar 
 a relacionarme con la *Cyber* *Seguridad*
-# Estoy aprndiendo 
+# Estoy aprendiendo 
 -HTML
 -CSS
 -JAVA SCRIP
