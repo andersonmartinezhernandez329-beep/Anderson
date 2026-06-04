@@ -1,4 +1,4 @@
-# Hola👀🫵!!. Un saludo a tod@s los que esten leyendo esto, mi nombre es Anderson🙌
+# Hola👀🫵!!. Un saludo a tod@s los que esten leyendo esto, mi nombre es Anderson Roberto, un gusto saludarles🙌.
 Soy un chico de 16 años, amante de la tecnologia
 estoy estudiando la carrera de SOFTWARE, que son 3 años
 y espero seguir relacionandome con la computación y
