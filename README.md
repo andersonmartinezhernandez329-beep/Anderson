@@ -4,7 +4,7 @@ estoy estudiando la carrera de SOFTWARE, que son 3 años
 y espero seguir relacionandome con la computación y
 todo lo relacionado con ello.
 Espero seguir esudiando la universidad, y empezar 
-a relacionarme con la **Cyber** **Seguridad**
+a relacionarme con la **Cyber** **Seguridad**,**
 # Estoy aprendiendo💻
 - HTML👨‍💻
 - CSS🚀
@@ -14,3 +14,6 @@ a relacionarme con la **Cyber** **Seguridad**
 - Git📁
 - GitHub📂
 # Mi proyecto actual.
+Estoy aprendiendo a publicar páginas web utilizando GitHub Pages. 
+# Meta técnica
+
