@@ -15,11 +15,14 @@ la cocina.
 - Diseño Reponsive💾
 - Git📁
 - GitHub📂
-# Mi proyecto actual.
+# Mi proyecto actual👀📂.
 Estoy aprendiendo a publicar páginas web utilizando GitHub Pages. 
+Tambien estoy trabajando en aprender por mi cuenta todo sobre programación
+y adquirir conocimientos nuevos para facilitar mi rendimiento academico.
 # Meta técnica
 En el transcurso de estos 3 años estudiando software, espero aprender la creación de apps, paginas web/sitos web
 y con el pasar del tiempo desarrolar paginas web o crear aplicaciones y por consiguiente venderlas o rentarlas, y 
-empezar a ganar dinero de la creación de paginas web o apps
+empezar a ganar dinero de la creación de paginas web o apps.
+Y tambien empezar a estudiar o relacionarme con la **Cybersecurity**
 
 
