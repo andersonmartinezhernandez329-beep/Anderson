@@ -6,8 +6,8 @@ todo lo relacionado con ello.
 Espero seguir esudiando la universidad, y empezar 
 a relacionarme con la **Cyber** **Seguridad**
 # Estoy aprendiendo 
--HTML
--CSS
--JAVA SCRIP
--BOOSTRAAP
+- HTML
+- CSS
+- JAVA SCRIP
+- BOOSTRAAP
 
