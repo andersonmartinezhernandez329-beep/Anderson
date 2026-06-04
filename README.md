@@ -16,7 +16,7 @@ la cocina.
 - Git📁
 - GitHub📂
 # Mi proyecto actual👀📂.
-Estoy aprendiendo a publicar páginas web utilizando GitHub Pages. 
+Estoy aprendiendo a publicar páginas web utilizando **GitHub Pages**.
 Tambien estoy trabajando en aprender por mi cuenta todo sobre programación
 y adquirir conocimientos nuevos para facilitar mi rendimiento academico.
 # Meta técnica
