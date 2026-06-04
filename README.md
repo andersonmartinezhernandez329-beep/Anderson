@@ -10,7 +10,7 @@ la cocina.
 # Estoy aprendiendo💻
 - HTML👨‍💻
 - CSS🚀
-- JAVA SCRIP⚙️
+- JAVASCRIP⚙️
 - BOOSTRAAP🖥️
 - Diseño Reponsive💾
 - Git📁
