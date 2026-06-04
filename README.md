@@ -18,4 +18,8 @@ la cocina.
 # Mi proyecto actual.
 Estoy aprendiendo a publicar páginas web utilizando GitHub Pages. 
 # Meta técnica
+En el transcurso de estos 3 años estudiando software, espero aprender la creación de apps, paginas web/sitos web
+y con el pasar del tiempo desarrolar paginas web o crear aplicaciones y por consiguiente venderlas o rentarlas, y 
+empezar a ganar dinero de la creación de paginas web o apps
+
 
